@@ -19,14 +19,14 @@
 
 ![LP](https://img.shields.io/badge/Lógica%20de%20Programação-000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 <h3 align="left">Próximos passos</h3>
 
 <div align="left">
 
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 
@@ -34,9 +34,11 @@
 
 <div align="left">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0Chaves&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivanjrinacio&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Chaves&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanjrinacio&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+
+[![](https://visitcount.itsvg.in/api?id=ivanjrinacio&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0Chaves&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/0Chaves/SEUREPOSITORIO) -->
 </div>
@@ -54,7 +56,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ivanjrinacio/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivanjrinacio)
 </div>
-<br>
-<br>
-<br>
-<br>
+
