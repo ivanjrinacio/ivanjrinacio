@@ -1,9 +1,9 @@
 <h1 align="left" style="color: #EB9326">Ivanildo Inácio da Silva Júnior</h1>
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chaves-63b498240/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/0Chaves)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:danieldossantoschaves@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanjrinacio/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/ivanjrinacio)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ivanjrinacio@gmail.com)
 
 ### SOBRE
 > Sou formado em biologia mas sempre amei lidar dados, tanto que acabei fazendo mestrado e doutorado. Contudo, estou buscando transicionar minha carreira para trabalhar com
@@ -17,18 +17,16 @@
 
 <div align="left">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![LP](https://img.shields.io/badge/Lógica%20de%20Programação-000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
-<h3 align="left">Engines</h3>
+<h3 align="left">Próximos passos</h3>
 
 <div align="left">
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-FFF?style=for-the-badge&logo=unrealengine&logoColor=black)
-![Godot Engine](https://img.shields.io/badge/godot_Engine-FFF?style=for-the-badge&logo=godotengine&logoColor=blue)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
 </div>
 
 
@@ -53,8 +51,8 @@
 
 <div align="left">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rhisen/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieel.chavess/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ivanjrinacio/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivanjrinacio)
 </div>
 <br>
 <br>
