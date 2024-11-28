@@ -6,8 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ivanjrinacio@gmail.com)
 
 ### SOBRE
-> Sou formado em biologia mas sempre amei lidar dados, tanto que acabei fazendo mestrado e doutorado. Contudo, estou buscando transicionar minha carreira para trabalhar com
-> ciências de dados. Pois estou acostumado a lidar com pressão, prazos e até mesmo liderar equipes para a criação e execução de projetos. Portanto, acredito que essa caracterítica me ajudará muito nesse novo rumo na carreira.
+> Olá, sou estudante de Ciências de Dados, em busca de uma nova jornada profissional que une minha paixão por análise de dados com a experiência acumulada em minha primeira formação, em Biologia, na qual também concluí um doutorado. Ao longo dessa trajetória, desenvolvi um forte interesse em resolver problemas e explorar o potencial dos dados para obter insights e soluções.
+
+Minha experiência inclui sólidos conhecimentos em estatística e habilidades para coleta, análise e apresentação de dados científicos, o que despertou meu desejo de migrar para o campo das Ciências de Dados. Além disso, adquiri expertise na criação e execução de projetos, bem como em coordenação e liderança de equipes. Durante minha vida acadêmica, publiquei artigos e registrei patentes, vivências que me proporcionaram uma visão ampla sobre como dados podem ser aplicados para enfrentar desafios e gerar inovação.
 
 <i>(Recife, PE - Brasil)</i>
 
