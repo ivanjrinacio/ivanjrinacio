@@ -20,12 +20,6 @@
 
 <i>(Recife, PE - Brasil)</i>
 
-<h2 align="left"> 📖 Cursos e Bootcamps </h2>
-
-<div align="left"> • Google Data Analytics (Coursera) </div>
-<div align="left"> • One Tech Foundation - Data Science (One Oracle Next Eduration - Alura) </div>
-
-
 <h2 align="left"> ⚒️ Habilidades / Hardskills</h2>
 
 <div align="left"> • Python </div>
@@ -33,6 +27,11 @@
 <div align="left"> • R </div>
 <div align="left"> • Power BI </div>
 <div align="left"> • Tableau </div>
+
+<h2 align="left"> 📖 Cursos e Bootcamps </h2>
+
+<div align="left"> • Google Data Analytics (Coursera) </div>
+<div align="left"> • One Tech Foundation - Data Science (One Oracle Next Education - Alura) </div>
 
 <h2 align="left"> 📋 Github Stats </h2>
 
